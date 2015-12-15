@@ -33,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/IAmAnubhavSaini/paint/issues"
   },
-  "homepage": "https://github.com/IAmAnubhavSaini/paint#readme"
+  "homepage": "https://github.com/IAmAnubhavSaini/paint#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
