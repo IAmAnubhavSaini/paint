@@ -1,6 +1,6 @@
 {
   "name": "paint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "paint application",
   "main": "index.js",
   "scripts": {
