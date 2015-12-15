@@ -1,0 +1,37 @@
+{
+  "name": "paint",
+  "version": "0.0.0",
+  "description": "paint application",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/paint.git"
+  },
+  "keywords": [
+    "paint",
+    "jspaint",
+    "javascript",
+    "sass",
+    "scss",
+    "css",
+    "coffeescript",
+    "grunt",
+    "tdd",
+    "clean",
+    "code",
+    "jasmine",
+    "bdd",
+    "bootstrap",
+    "jquery",
+    "angular"
+  ],
+  "author": "Anubhav Saini <IAmAnubhavSaini@GMail.com> (http://iamanubhavsaini.github.io/showcase/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/paint/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/paint#readme"
+}
